@@ -1,5 +1,4 @@
-// Classe de objetos que guarda informacoes sobre produtos e servicos oferecidos no estacionamento
-// Produtos e serviços são, por exemplo: lavagem de veículo; estacionar; troca de óleo
+// Versão recuperada
 
 public class Produto {
 
